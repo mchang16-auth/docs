@@ -1,5 +1,5 @@
-To enable the Auth0 MFA feature, open the [Multi-factor Auth With Guardian](${manage_url}/#/guardian) page and enable the __Push Notifications__ option as shown below:
+To enable the Auth0 MFA feature, open the <a href="$manage_url/#/guardian" target="_blank">Multi-factor Auth With Guardian</a> page and enable the __Push Notifications__ option as shown below:
 
-![dashboard MFA with push notification enabled](/media/articles/mfa/guardian-push-enabled.png)
+!<a href="/media/articles/mfa/guardian-push-enabled.png" target="_blank">dashboard MFA with push notification enabled</a>
 
 Click __Save__ and you are ready to test Multi-factor authentication in your application.

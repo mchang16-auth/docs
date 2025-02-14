@@ -11,13 +11,13 @@ Go to <a href="${manage_url}/#/applications/">Application Add-ons</a> page and a
 <% } %>
 
 
-![](/media/articles/server-apis/addons.png)
+!<a href="/media/articles/server-apis/addons.png" target="_blank"></a>
 
 Each integration is different and requires different parameters and configuration. Once the add-on is activated, you will see tailored instructions with details on how to get this done.
 
 ## 2. Use it
 
-The key to this integration is the Delegation endpoint in Auth0. Check the documentation of any of our frontend or Mobile SDKs to learn how to call [the /delegation endpoint](/api/authentication#delegation). You can download your favorite library from any of the [Quickstarts](/).
+The key to this integration is the Delegation endpoint in Auth0. Check the documentation of any of our frontend or Mobile SDKs to learn how to call <a href="/api/authentication#delegation" target="_blank">the /delegation endpoint</a>. You can download your favorite library from any of the <a href="/" target="_blank">Quickstarts</a>.
 
 ## 3. You are done!
 
